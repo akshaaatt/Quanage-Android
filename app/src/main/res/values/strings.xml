@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Quanage</string>
+    <string name="connected">Connected</string>
+    <string name="connecting">Connecting…</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="run">Run</string>
+    <string name="result">Results</string>
+    <string name="experiment">Experiment</string>
+    <string name="device">Device</string>
+    <string name="histogram">Histogram</string>
+    <string name="probability">Probability</string>
+</resources>
