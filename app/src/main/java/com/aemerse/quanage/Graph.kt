@@ -1,4 +1,4 @@
-package com.limerse.quanage
+package com.aemerse.quanage
 
 import android.graphics.Color
 import com.github.mikephil.charting.charts.BarChart
@@ -6,7 +6,7 @@ import com.github.mikephil.charting.data.BarData
 import com.github.mikephil.charting.data.BarDataSet
 import com.github.mikephil.charting.data.BarEntry
 import com.github.mikephil.charting.formatter.IAxisValueFormatter
-import com.limerse.quanage.model.QAData
+import com.aemerse.quanage.model.QAData
 
 //https://github.com/PhilJay/MPAndroidChart/wiki/Getting-Started
 

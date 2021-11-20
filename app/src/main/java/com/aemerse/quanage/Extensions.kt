@@ -1,4 +1,4 @@
-package com.limerse.quanage
+package com.aemerse.quanage
 
 import android.view.View
 import android.view.ViewTreeObserver

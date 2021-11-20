@@ -1,4 +1,4 @@
-package com.limerse.quanage
+package com.aemerse.quanage
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4

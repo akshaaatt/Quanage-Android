@@ -1,11 +1,11 @@
-package com.limerse.quanage
+package com.aemerse.quanage
 
 import arrow.core.Either
-import com.limerse.quanage.model.QADevice
-import com.limerse.quanage.model.QAError
-import com.limerse.quanage.model.QAJob
-import com.limerse.quanage.network.IbmProvider
-import com.limerse.quanage.network.QAsm
+import com.aemerse.quanage.model.QADevice
+import com.aemerse.quanage.model.QAError
+import com.aemerse.quanage.model.QAJob
+import com.aemerse.quanage.network.IbmProvider
+import com.aemerse.quanage.network.QAsm
 import kotlinx.coroutines.*
 import java.util.concurrent.TimeUnit
 import kotlin.coroutines.CoroutineContext

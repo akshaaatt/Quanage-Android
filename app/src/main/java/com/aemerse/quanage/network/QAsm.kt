@@ -1,6 +1,6 @@
-package com.limerse.quanage.network
+package com.aemerse.quanage.network
 
-import com.limerse.quanage.model.QAResult
+import com.aemerse.quanage.model.QAResult
 
 data class QAsm(
         var qasm: String = "",

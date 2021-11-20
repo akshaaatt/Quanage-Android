@@ -1,4 +1,4 @@
-package com.limerse.quanage.model
+package com.aemerse.quanage.model
 
 data class QAError(
         val name: String = "",

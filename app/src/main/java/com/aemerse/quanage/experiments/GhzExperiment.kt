@@ -1,8 +1,8 @@
-package com.limerse.quanage.experiments
+package com.aemerse.quanage.experiments
 
 import arrow.core.Either
-import com.limerse.quanage.*
-import com.limerse.quanage.model.QAData
+import com.aemerse.quanage.*
+import com.aemerse.quanage.model.QAData
 
 class GhzExperiment(interactor: JobInteractor,
                     result: (Either<String, QAData>) -> Unit) : Experiment(interactor, result) {

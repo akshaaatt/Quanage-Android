@@ -1,8 +1,8 @@
-package com.limerse.quanage.network
+package com.aemerse.quanage.network
 
-import com.limerse.quanage.model.QADevice
-import com.limerse.quanage.model.QAJob
-import com.limerse.quanage.model.QALoginResponse
+import com.aemerse.quanage.model.QADevice
+import com.aemerse.quanage.model.QAJob
+import com.aemerse.quanage.model.QALoginResponse
 import kotlinx.coroutines.Deferred
 import retrofit2.Response
 import retrofit2.http.*

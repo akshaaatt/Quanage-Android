@@ -1,4 +1,4 @@
-package com.limerse.quanage
+package com.aemerse.quanage
 
 import kotlinx.coroutines.*
 import org.junit.Test

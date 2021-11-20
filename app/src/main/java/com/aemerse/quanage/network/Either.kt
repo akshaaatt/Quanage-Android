@@ -1,4 +1,4 @@
-package com.limerse.quanage.network
+package com.aemerse.quanage.network
 
 
 sealed class Either<out L, out R> {

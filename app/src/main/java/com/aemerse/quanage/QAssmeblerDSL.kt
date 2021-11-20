@@ -1,6 +1,6 @@
-package com.limerse.quanage
+package com.aemerse.quanage
 
-import com.limerse.quanage.network.QAsm
+import com.aemerse.quanage.network.QAsm
 
 interface Element {
     fun render(builder: StringBuilder, indent: String)

@@ -1,4 +1,4 @@
-package com.limerse.quanage.model
+package com.aemerse.quanage.model
 
 import java.util.*
 

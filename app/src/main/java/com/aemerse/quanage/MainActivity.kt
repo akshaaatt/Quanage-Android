@@ -1,4 +1,4 @@
-package com.limerse.quanage
+package com.aemerse.quanage
 
 import android.annotation.SuppressLint
 import android.os.Bundle
@@ -10,13 +10,13 @@ import android.widget.AdapterView
 import android.widget.ArrayAdapter
 import androidx.appcompat.app.AppCompatActivity
 import arrow.core.Either
-import com.limerse.quanage.model.QAData
-import com.limerse.quanage.model.QADevice
-import com.limerse.quanage.network.IbmProvider
-import com.limerse.quanage.databinding.ActivityMainBinding
-import com.limerse.quanage.experiments.BellExperiment
-import com.limerse.quanage.experiments.FourierExperiment
-import com.limerse.quanage.experiments.GhzExperiment
+import com.aemerse.quanage.model.QAData
+import com.aemerse.quanage.model.QADevice
+import com.aemerse.quanage.network.IbmProvider
+import com.aemerse.quanage.databinding.ActivityMainBinding
+import com.aemerse.quanage.experiments.BellExperiment
+import com.aemerse.quanage.experiments.FourierExperiment
+import com.aemerse.quanage.experiments.GhzExperiment
 import kotlinx.coroutines.*
 import kotlin.coroutines.CoroutineContext
 

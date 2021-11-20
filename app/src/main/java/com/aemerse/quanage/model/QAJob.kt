@@ -1,7 +1,7 @@
-package com.limerse.quanage.model
+package com.aemerse.quanage.model
 
-import com.limerse.quanage.network.IbmProvider
-import com.limerse.quanage.network.QAsm
+import com.aemerse.quanage.network.IbmProvider
+import com.aemerse.quanage.network.QAsm
 import java.util.*
 
 data class QAJob(

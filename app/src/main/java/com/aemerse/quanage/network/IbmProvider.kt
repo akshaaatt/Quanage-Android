@@ -1,11 +1,11 @@
-package com.limerse.quanage.network
+package com.aemerse.quanage.network
 
 import arrow.core.Either
 import com.google.gson.GsonBuilder
 import com.jakewharton.retrofit2.adapter.kotlin.coroutines.CoroutineCallAdapterFactory
-import com.limerse.quanage.model.QADevice
-import com.limerse.quanage.model.QAJob
-import com.limerse.quanage.model.StatusEnum
+import com.aemerse.quanage.model.QADevice
+import com.aemerse.quanage.model.QAJob
+import com.aemerse.quanage.model.StatusEnum
 import kotlinx.coroutines.coroutineScope
 import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor

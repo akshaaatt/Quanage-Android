@@ -1,10 +1,10 @@
-package com.limerse.quanage.experiments
+package com.aemerse.quanage.experiments
 
 import arrow.core.Either
-import com.limerse.quanage.JobInteractor
-import com.limerse.quanage.model.QAData
-import com.limerse.quanage.model.QADevice
-import com.limerse.quanage.network.QAsm
+import com.aemerse.quanage.JobInteractor
+import com.aemerse.quanage.model.QAData
+import com.aemerse.quanage.model.QADevice
+import com.aemerse.quanage.network.QAsm
 
 abstract class Experiment(private val interactor: JobInteractor,
                           private val result: (Either<String, QAData>) -> Unit) {
