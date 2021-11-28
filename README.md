@@ -30,7 +30,7 @@
 
 ## About
 
-Quanage for Android is a mobile app for the application of Quantum Encryption on the Android platform.
+Quanage for Android is a mobile app for the application of Quantum Encryption on the Android platform. Here we establish two randomly generated keys and keep a track of them leveraging a quantum computer provided by IBM Quantum using their APIs. The app is a live demonstration of the QKD concepts and tends out to be the first ever truly secure application for exchange of data across the internet.
 
 ## Development
 	    
