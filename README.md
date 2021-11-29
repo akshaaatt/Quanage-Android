@@ -20,7 +20,7 @@
 <p align="center">
   <a href="#about">About</a> •
   <a href="#development">Development</a> •
-  <a href="#downloading">Downloading</a> •
+<!--   <a href="#downloading">Downloading</a> • -->
   <a href="#contributing">Contributing</a> •
   <a href="#issues">Issues</a> •
   <a href="#license">License</a>
@@ -38,9 +38,9 @@ Quanage for Android is a mobile app for the application of Quantum Encryption on
 * Clone this repository.
 * Use the `gradlew build` command to build the project directly or use the IDE to run the project to your phone or the emulator.
 
-## Downloading
+<!-- ## Downloading
 
-* [Google Play Store](https://play.google.com/store/apps/details?id=org.aemerse.quanage)
+* [Google Play Store](https://play.google.com/store/apps/details?id=org.aemerse.quanage) -->
 	    	    
 ## Contributing
 	  
