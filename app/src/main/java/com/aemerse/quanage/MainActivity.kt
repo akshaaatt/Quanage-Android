@@ -20,7 +20,6 @@ import com.aemerse.quanage.experiments.GhzExperiment
 import kotlinx.coroutines.*
 import kotlin.coroutines.CoroutineContext
 
-
 class MainActivity : AppCompatActivity(), CoroutineScope {
     private lateinit var job: Job
     override val coroutineContext: CoroutineContext get() = job + Dispatchers.Main
